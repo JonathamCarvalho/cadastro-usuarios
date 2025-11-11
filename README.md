@@ -38,7 +38,7 @@ Este projeto me ensinou:
 - Como resolver erros de CORS
 - Como realizar o deploy de aplicações Fullstack
 
-  ## Acesse o Projeto
-  https://cadastro-usuarios-lvt4.vercel.app/
+## Acesse o Projeto
+https://cadastro-usuarios-lvt4.vercel.app/
 
   
