@@ -1,16 +1,41 @@
-# React + Vite
+<h1 align="center">Cadastro de Usuários</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/feito%20com-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/backend-Node.js-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/banco-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
+</p>
 
-Currently, two official plugins are available:
+## Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este é meu **primeiro projeto Fullstack**, desenvolvido com o objetivo de aprender sobre **integração entre frontend e backend**.  
+O projeto permite **cadastrar, ver lista e excluir usuários**, com comunicação entre React e Node.js usando Axios e Prisma (conectado ao MongoDB).
 
-## React Compiler
+## Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### **Frontend**
+- React  
+- Vite  
+- React Router  
+- Axios  
+- Styled Components
 
-## Expanding the ESLint configuration
+### **Backend**
+- Node.js  
+- Express  
+- Prisma  
+- **MongoDB (Database)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### **Hospedagem**
+- Frontend: [Vercel](https://vercel.com/)  
+- Backend: [Render](https://render.com/)
+
+  ## 🧠 Aprendizados
+Este projeto me ensinou:
+- A estruturar um CRUD completo (Create, Read, Delete)
+- Como conectar o **Prisma ao MongoDB**
+- Como resolver erros de CORS
+- Como realizar o deploy de aplicações Fullstack
+
+  
