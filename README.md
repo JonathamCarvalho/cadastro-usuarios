@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/feito%20com-React-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/backend-Node.js-green?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/banco-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/layout-responsivo-blueviolet?style=flat-square&logo=css&logoColor=blueviolet"/>
 </p>
 
 ## Descrição
