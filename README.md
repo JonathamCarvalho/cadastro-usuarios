@@ -31,11 +31,14 @@ O projeto permite **cadastrar, ver lista e excluir usuários**, com comunicaçã
 - Frontend: [Vercel](https://vercel.com/)  
 - Backend: [Render](https://render.com/)
 
-  ## 🧠 Aprendizados
+## Aprendizados
 Este projeto me ensinou:
 - A estruturar um CRUD completo (Create, Read, Delete)
 - Como conectar o **Prisma ao MongoDB**
 - Como resolver erros de CORS
 - Como realizar o deploy de aplicações Fullstack
+
+  ## Acesse o Projeto
+  https://cadastro-usuarios-lvt4.vercel.app/
 
   
