@@ -34,7 +34,7 @@ O projeto permite **cadastrar, ver lista e excluir usuários**, com comunicaçã
 
 ## Aprendizados
 Este projeto me ensinou:
-- A estruturar um CRUD completo (Create, Read, Delete)
+- A estruturar um CRUD completo (Create, Read, Update, Delete)
 - Como conectar o **Prisma ao MongoDB**
 - Como resolver erros de CORS
 - Como realizar o deploy de aplicações Fullstack
